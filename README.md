@@ -14,11 +14,13 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I am a data professional and Public Health student passionate about transforming complex data into meaningful insights that drive informed decision-making. I specialize in building interactive dashboards and data-driven stories that make information accessible, actionable, and impactful.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+With expertise in Power BI, SQL, and data modeling, I design comprehensive analytical solutions that uncover hidden patterns, reveal trends, and support strategic planning across diverse sectors. My approach combines technical precision with clear storytelling to ensure data is not just analyzed but understood.
 
-When I'm not working with data, I enjoy listening to Podcast and mentoring others. I love the "aha!" moment when data reveals something new and useful.
+As a Public Health student, I bring an evidence-based and community-focused perspective to my work. I am particularly interested in leveraging data analytics to address real-world challenges, improve health outcomes, and support sustainable development initiatives.
+
+I believe data has the power to create change when it is translated into insight and I am committed to turning data into decisions that matter.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://Lawal-Jnr-Analyst.github.io/)
